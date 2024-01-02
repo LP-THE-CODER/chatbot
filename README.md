@@ -30,7 +30,7 @@ Welcome to Mystic's Python Interview ChatBot! This interactive chat application 
 To run the application, make sure you have Python installed. Execute the following command in your terminal:
 
 ```bash
-python chatbot_app.py
+python bot.py
 ```
 
 The application window will appear, allowing you to interact with Mystic, the Python Interview ChatBot.
