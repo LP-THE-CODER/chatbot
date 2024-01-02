@@ -50,7 +50,7 @@ If you have suggestions or improvements, feel free to fork the repository, make 
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [Lakshmi Prasanna Morla]
 - Inspired by Python's vast community and educational initiatives.
 
 Enjoy learning Python with Mystic's Python Interview ChatBot!
