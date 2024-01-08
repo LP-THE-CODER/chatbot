@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to Mystic's Python Interview ChatBot! This interactive chat application is designed to help users learn about Python programming basics through a conversational interface. Users can ask questions related to various Python topics, and Mystic, the chatbot, will provide informative responses.
-![chatbot](Screenshot 2024-01-08 231328.png)
+
 ## Features
 
 - **User-Friendly Interface:** The application offers a simple and intuitive user interface.
